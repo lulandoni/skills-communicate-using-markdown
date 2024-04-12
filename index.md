@@ -3,3 +3,6 @@
 
 ###### Agregue un <H1>, un <H2> y una foto.
 ![imagen de un gatito](https://s2.abcstatics.com/media/recreo/2015/12/04/gatos-violencia--620x349.JPG)
+``` javascript
+var myVar = "Gato!";
+```
