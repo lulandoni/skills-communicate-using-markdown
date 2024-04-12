@@ -1,6 +1,5 @@
-# This is an <h1> header, which is the largest
-## This is an <h2> header, which is the largest
+# This is an `<h1>` header, which is the largest
+## This is an `<h2>` header.
 
-
-###### Agregue el <H1>, <H2> y el <H3>, lueg agregue una foto
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+###### Agregue un <H1>, un <H2> y una foto.
+![imagen de un gatito](https://s2.abcstatics.com/media/recreo/2015/12/04/gatos-violencia--620x349.JPG)
